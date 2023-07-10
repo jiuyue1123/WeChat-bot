@@ -15,6 +15,9 @@ def text_reply(msg):
     if str == '菜单':
         reply = '''by：不舍温柔.
 QQ：2152598815
+by：Moon
+QQ：3042018468
+Tip：有任何问题可以加QQ交流
 ping：ping xxx
 chatgpt： chat xxx
 热点新闻：新闻'''
