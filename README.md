@@ -25,8 +25,9 @@ python main.py
 ```
 or
 ```sh
+
 python3 main.py
 ```
 # 贡献者
-[![Contributors](https://contrib.rocks/image?repo=qiuyue520/WeChat-bot)](https://github.com/qiuyue520)
+[![Contributors](https://avatars.githubusercontent.com/qiuyue520)](https://github.com/qiuyue520)
 [![Contributors](https://img.shields.io/badge/Contributors-Moon-blue)](https://github.com/qiuyue520)
